@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Personal Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            margin: 40px;
+        }
+        h1 {
+            color: #2e8b57;
+        }
+        img {
+            width: 200px;
+            border-radius: 50%;
+        }
+        a {
+            color: #1e90ff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello! I'm Vinh</h1>
+    <p>I am a student who loves web development. This is my simple personal page written in HTML.</p>
+
+    <!-- Optional profile picture -->
+    <!-- <img src="your-image-link.jpg" alt="My profile picture"> -->
+
+    <h2>Contact Me</h2>
+    <ul>
+        <li>Email: <a href="mailto:vinhnhat896@gmail.com">vinhnhat896@gmail.com</a></li>
+        <li>Facebook: <a href="https://www.facebook.com/nhat.vinh.537859" target="_blank">My Facebook page</a></li>
+    </ul>
+</body>
+</html>
